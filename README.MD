@@ -6,7 +6,7 @@ This is a Django web application using Daphne for ASGI deployment.
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/vishalpandhare01/your-repo-name.git
+git clone https://github.com/vishalpandhare01/Task-Management-backend.git
 cd your-repo-name
 ````
 
